@@ -1,0 +1,81 @@
+
+@media (min-width: 1280px) and (max-width: 1599px){
+.progress-bar-bs .caption[data-novi-id="14"]{
+  color: #fff;
+}
+.progress-bar-bs .caption[data-novi-id="13"]{
+  color: #fff;
+}
+[data-novi-id="11"]{
+  color: #fff;
+}
+[data-novi-id="10"]{
+  color: #fff;
+}
+[data-novi-id="10"]{
+  font-weight: 700;
+}
+[data-novi-id="9"]{
+  font-weight: 700;
+}
+[data-novi-id="9"]{
+  color: #fff;
+}
+[data-novi-id="8"]{
+  color: #fff;
+  font-weight: 700;
+}
+[data-novi-id="4"]{
+  color: #fff;
+}
+[data-novi-id="3"]{
+  color: rgba(18, 18, 17, 1);
+  font-weight: 700;
+}
+[data-novi-id="7"]{
+  font-weight: 700;
+  color: rgba(18, 18, 17, 1);
+}
+[data-novi-id="6"]{
+  font-weight: 700;
+  color: rgba(18, 18, 17, 1);
+}
+[data-novi-id="5"]{
+  font-weight: 700;
+  color: rgba(18, 18, 17, 1);
+}
+[data-novi-id="4"]{
+  font-weight: 700;
+}
+[data-novi-id="3"]{
+  font-weight: 700;
+}
+[data-novi-id="2"]{
+  color: #fff;
+}
+[data-novi-id="1"]{
+  color: #fff;
+}
+[data-novi-id="0"]{
+  color: #fff;
+  font-weight: 700;
+}
+}
+@media (min-width: 1024px) and (max-width: 1279px){
+[data-novi-id="6"]{
+  color: rgba(18, 18, 17, 1);
+  font-weight: 700;
+}
+[data-novi-id="7"]{
+  font-weight: 700;
+  color: rgba(18, 18, 17, 1);
+}
+[data-novi-id="3"]{
+  font-weight: 700;
+  color: rgba(18, 18, 17, 1);
+}
+[data-novi-id="5"]{
+  font-weight: 700;
+  color: rgb(18, 18, 17);
+}
+}
